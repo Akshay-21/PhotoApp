@@ -1,4 +1,4 @@
-package com.example.photoapp;
+package com.example.photoapp.ui.activity;
 
 import androidx.appcompat.app.AppCompatActivity;
 

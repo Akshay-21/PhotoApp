@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">PhotoApp</string>
+    <string name="title">Title</string>
+    <string name="image_title">Image Title</string>
+    <string name="description">Description</string>
+    <string name="image_description">Image Description</string>
+    <string name="image_details">Image Details</string>
+    <string name="title_details">Akshay</string>
+    <string name="description_details">How Are You! I hope you are doing well!!</string>
+    <string name="network_not_available">Network not available, please connect with network!</string>
 </resources>
